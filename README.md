@@ -1,5 +1,5 @@
 # CNP1-CHIKV-Naphthoquinones
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 10) dedicated to finding hits vs CHIV based on a hit containing an naphthoquinone.
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 10) dedicated to finding hits vs CHIKV based on a hit containing an naphthoquinone.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
