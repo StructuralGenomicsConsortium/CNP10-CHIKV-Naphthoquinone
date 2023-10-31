@@ -1,11 +1,11 @@
-# CNP1-CHIKV-Naphthoquinones
+# CNP10-CHIKV-Naphthoquinones
 An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 10) dedicated to finding hits vs CHIKV based on a hit containing an naphthoquinone.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP8-Nsp13-Indoles/wiki) or check out the living paper that is being written [here](https://github.com/StructuralGenomicsConsortium/CNP8-CHIKV-Naphthoquinone/wiki/The-Story-So-Far).
+For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP8-Nsp13-Indoles/wiki) or check out the living paper that is being written [here](https://github.com/StructuralGenomicsConsortium/CNP10-CHIKV-Naphthoquinone/wiki/The-Story-So-Far).
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
