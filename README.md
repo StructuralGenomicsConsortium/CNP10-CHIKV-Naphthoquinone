@@ -7,6 +7,8 @@ If this sounds interesting, and you agree to the simple [RULES](https://www.thes
 
 For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP8-Nsp13-Indoles/wiki) or check out the living paper that is being written [here](https://github.com/StructuralGenomicsConsortium/CNP10-CHIKV-Naphthoquinone/wiki/The-Story-So-Far).
 
+Note that the current status of this project is **closed/paused**, because cytoxicity is tracking with compound potency. The project remains open for others to carry on, however.
+
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
 If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To" Area](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki)
