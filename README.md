@@ -5,7 +5,7 @@ You contribute synthetic chemistry and in return the SGC offers biology. Togethe
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP8-Nsp13-Indoles/wiki) or check out the living paper that is being written [here](https://github.com/StructuralGenomicsConsortium/CNP10-CHIKV-Naphthoquinone/wiki/The-Story-So-Far).
+For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP10-CHIKV-Naphthoquinone/wiki) or check out the living paper that is being written [here](https://github.com/StructuralGenomicsConsortium/CNP10-CHIKV-Naphthoquinone/wiki/The-Story-So-Far).
 
 Note that the current status of this project is **closed/paused**, because cytoxicity is tracking with compound potency. The project remains open for others to carry on, however.
 
